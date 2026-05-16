@@ -82,7 +82,7 @@ class shashank7109:
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbindal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.shion.dev/api?username=shashankbindal&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
